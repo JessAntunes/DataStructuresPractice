@@ -14,7 +14,6 @@ function tournamentWinner(competitions, results) {
             currentBest = winningTeam;   
         }
     }
-
     return currentBest;
 }
 
